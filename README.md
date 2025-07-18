@@ -1,4 +1,4 @@
-# 🇮🇩 Kumpulan Write-Up picoCTF
+# Kumpulan Write-Up picoCTF
 
 Repositori ini berisi kumpulan solusi dan write-up pribadi dari soal-soal yang saya kerjakan di platform picoCTF.
 
