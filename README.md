@@ -1,0 +1,2 @@
+# PicoCTF
+Langkah-langkah penyelesaian
